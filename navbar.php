@@ -7,10 +7,13 @@
             <a class="navbar-brand" href="#">RSA</a>
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="#">Home</a>
+                    <a class="nav-link active" aria-current="page" href="index.php">Home</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="insert.php" tabindex="-1">Tambah</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="daftar_booking.php" tabindex="-1">Daftar Booking</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="about.php">How to use</a>
